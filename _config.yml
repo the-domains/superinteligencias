@@ -1,0 +1,28 @@
+name: Superinteligencias
+favicon: null
+layout_spectrum: 0.6089143494609743
+typography_spectrum: 0.5651225098408759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.08734599128365517
+  lightness: 0.9192766265477985
+  saturation: 0.38545189425349236
+  rhythmicContrast: 0.6822328655980527
+purpose: []
